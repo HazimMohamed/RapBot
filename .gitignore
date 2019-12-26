@@ -123,6 +123,12 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# Cached wikipedia articles and searches
+lyrics/cache/
+
+# Sandbox file
+sandbox.py
+
 .idea/
 
 .DS_Store
